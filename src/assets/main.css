@@ -1,0 +1,10 @@
+body {
+  font-size: 85%;
+  font-family: Verdana, 'DejaVu Sans', 'Arial CE', Arial, 'Helvetica CE', Helvetica, sans-serif
+}
+
+p.zadny_zaznam {
+  padding: 1em;
+  text-align: center;
+  font-size: 1.3em;
+}
